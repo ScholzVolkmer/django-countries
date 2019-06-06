@@ -212,6 +212,7 @@ COUNTRIES = {
     "PT": _("Portugal"),
     "PR": _("Puerto Rico"),
     "QA": _("Qatar"),
+    "RKS": _("Republic of Kosovo"),
     "RE": _("Réunion"),
     "RO": _("Romania"),
     "RU": _("Russian Federation"),

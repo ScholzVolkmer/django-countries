@@ -18,6 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: base.py:11
+msgid "Republic of Kosovo"
+msgstr ""
+
+#: base.py:11
 msgid "Brunei"
 msgstr ""
 

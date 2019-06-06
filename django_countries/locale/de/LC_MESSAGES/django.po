@@ -25,6 +25,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: base.py:11
+msgid "Republic of Kosovo"
+msgstr "Republik Kosovo"
+
+#: base.py:11
 msgid "Brunei"
 msgstr "Brunei"
 

@@ -274,7 +274,7 @@ class CountryField(CharField):
         if self.multiple:
             kwargs["max_length"] = len(self.countries) * 3 - 1
         else:
-            kwargs["max_length"] = 2
+            kwargs["max_length"] = 3
         super(CharField, self).__init__(*args, **kwargs)
 
     def check(self, **kwargs):
